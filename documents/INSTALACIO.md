@@ -1,0 +1,1 @@
+# Intal·lació de la Aplicació
